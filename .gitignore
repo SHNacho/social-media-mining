@@ -1,1 +1,6 @@
 .venv
+complex-networks-analysis/*.csv
+complex-networks-analysis/images
+complex-networks-analysis/facebook.gephi
+
+
